@@ -1,6 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Natapong 👋
 
-I'm Tor 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=ffdc55)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+
+Welcome to my corner of GitHub!
+
+I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate about combining **remote sensing, LiDAR, and deep learning** to solve real-world problems.
+
+---
+
+### 🔭 I’m currently working on
+- **Skyviv (Survey Engineering)** — establishing ground control points (GCPs), capturing LiDAR data with UAVs and handheld scanners, managing large-scale photogrammetry projects, post-processing aerial imagery, and analyzing geospatial datasets.  
+- My **thesis research**: *Tree segmentation using PointNeXt and handheld LiDAR (GeoSLAM Zeb Horizon) for teak forests in Thailand* 🌳.
+
+---
+
+### 🌱 I’m currently learning
+
+#### 📘 Programming & Backend
+- [ ] Advanced **Python** programming [course](https://www.udemy.com/course/the-python-pro-course/?couponCode=PMNVD2525)  
+- [ ] `pytest` | Write unit testing code [docs](https://docs.pytest.org/en/stable/)  
+- [ ] Permission control (RBAC, ABAC, ReBAC) [permit.io](https://docs.permit.io/)  
+- [ ] Redis (NoSQL database)  
+- [ ] Celery and Flower (task queues)  
+- [ ] PostgreSQL & PostGIS (spatial database management)
+- [ ] Typer for building modern CLI app [link](https://typer.tiangolo.com/)  
+
+#### 🛠️ DevOps & Monitoring
+- [ ] Prometheus, Grafana, and Sentry (complete monitoring stack)  
+- [ ] Learn more about Cloud Services (GCP, AWS, Cloudflare R2)  
+
+#### 🎨 Frontend
+- [ ] Basic Frontend (HTML, JavaScript, CSS)  
+- [ ] React + Vite + TypeScript  
+
+#### 🌍 Geospatial & Photogrammetry
+- [ ] All Pix4D courses and certificates  
+- [ ] Close-Range Photogrammetry and 3D Imaging  
+- [ ] Dynamic Tiles Server [Titiler](https://developmentseed.org/titiler/)  
+- [ ] Blazing fast Vector Tiles Server [Martin](https://github.com/maplibre/martin)  
+
+#### 🤖 AI & 3D Data Science
+- [ ] 3D Data Science with Python [book](https://www.open3d.org/docs/latest/poux_book.html)  
+- [ ] Computer Vision [book](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition)  
+
+#### ✈️ Certification
+- [ ] FAA Part 107 Certificate self-learning [course](https://www.youtube.com/watch?v=zB9qzXaQ72s)
+
+---
+
+### ⚡ Fun fact
+I can fly drones ✈️, process LiDAR point clouds, and then build the backend to serve them on a map — all in one workflow.  
+Also, I roast myself with ChatGPT when I feel stuck 🤖🔥.
+
+---
 
 <!--
 **imtorrr/imtorrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

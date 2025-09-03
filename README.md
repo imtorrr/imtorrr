@@ -24,7 +24,8 @@ I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate ab
 - [ ] Redis (NoSQL database)  
 - [ ] Celery and Flower (task queues)  
 - [ ] PostgreSQL & PostGIS (spatial database management)
-- [ ] Typer for building modern CLI app [link](https://typer.tiangolo.com/)  
+- [ ] Typer for building modern CLI app [link](https://typer.tiangolo.com/)
+- [ ] Traefik 
 
 #### 🛠️ DevOps & Monitoring
 - [ ] Prometheus, Grafana, and Sentry (complete monitoring stack)  

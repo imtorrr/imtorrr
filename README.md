@@ -18,7 +18,7 @@ I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate ab
 ### 🌱 I’m currently learning
 
 #### 📘 Programming & Backend
-- [ ] Advanced **Python** programming [course](https://www.udemy.com/course/the-python-pro-course/?couponCode=PMNVD2525)  
+- [ ] [On Going] Advanced **Python** programming [course](https://www.udemy.com/course/the-python-pro-course/?couponCode=PMNVD2525)  
 - [ ] `pytest` | Write unit testing code [docs](https://docs.pytest.org/en/stable/)  
 - [ ] Permission control (RBAC, ABAC, ReBAC) [permit.io](https://docs.permit.io/)  
 - [ ] Redis (NoSQL database)  

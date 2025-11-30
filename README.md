@@ -17,15 +17,27 @@ I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate ab
 
 ### 🌱 I’m currently learning
 
+#### 🌍 Geospatial & Photogrammetry
+- [ ] [2/10] All Pix4D courses and certificates  
+- [ ] [On going] Close-Range Photogrammetry and 3D Imaging  
+- [x] Dynamic Tiles Server [Titiler](https://developmentseed.org/titiler/)
+- [x] tipg, Simple and Fast Geospatial OGC Features and Tiles API for PostGIS. [TiPg](https://developmentseed.org/tipg/)  
+- [ ] Blazing fast Vector Tiles Server [Martin](https://github.com/maplibre/martin)
+
+#### 🤖 AI & 3D Data Science
+- [ ] 3D Point cloud advanced courses [learngeodata](https://learngeodata.eu/)
+- [ ] 3D Data Science with Python [book](https://www.open3d.org/docs/latest/poux_book.html)  
+- [ ] Computer Vision [book](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition)
+
 #### 📘 Programming & Backend
-- [ ] [On Going] Advanced **Python** programming [course](https://www.udemy.com/course/the-python-pro-course/?couponCode=PMNVD2525)  
-- [ ] `pytest` | Write unit testing code [docs](https://docs.pytest.org/en/stable/)  
-- [ ] Permission control (RBAC, ABAC, ReBAC) [permit.io](https://docs.permit.io/)  
+- [x] Advanced **Python** programming [course](https://www.udemy.com/course/the-python-pro-course/?couponCode=PMNVD2525)  
+- [ ] pytest, Write unit testing code [docs](https://docs.pytest.org/en/stable/)  
+- [x] Permission control (RBAC, ABAC, ReBAC) [permit.io](https://docs.permit.io/), [openfga](https://openfga.dev/docs/fga)
 - [ ] Redis (NoSQL database)  
 - [ ] Celery and Flower (task queues)  
 - [ ] PostgreSQL & PostGIS (spatial database management)
 - [ ] Typer for building modern CLI app [link](https://typer.tiangolo.com/)
-- [ ] Traefik 
+- [ ] traefik, cloud native application proxy [link](https://doc.traefik.io/traefik/)
 
 #### 🛠️ DevOps & Monitoring
 - [ ] Prometheus, Grafana, and Sentry (complete monitoring stack)  
@@ -34,17 +46,7 @@ I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate ab
 #### 🎨 Frontend
 - [ ] Basic Frontend (HTML, JavaScript, CSS)  
 - [ ] React + Vite + TypeScript  
-
-#### 🌍 Geospatial & Photogrammetry
-- [ ] All Pix4D courses and certificates  
-- [ ] Close-Range Photogrammetry and 3D Imaging  
-- [ ] Dynamic Tiles Server [Titiler](https://developmentseed.org/titiler/)  
-- [ ] Blazing fast Vector Tiles Server [Martin](https://github.com/maplibre/martin)  
-
-#### 🤖 AI & 3D Data Science
-- [ ] 3D Data Science with Python [book](https://www.open3d.org/docs/latest/poux_book.html)  
-- [ ] Computer Vision [book](https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition)  
-
+  
 #### ✈️ Certification
 - [ ] FAA Part 107 Certificate self-learning [course](https://www.youtube.com/watch?v=zB9qzXaQ72s)
 

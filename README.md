@@ -31,21 +31,23 @@ I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate ab
 
 #### 📘 Programming & Backend
 - [x] Advanced **Python** programming [course](https://www.udemy.com/course/the-python-pro-course/?couponCode=PMNVD2525)  
-- [ ] pytest, Write unit testing code [docs](https://docs.pytest.org/en/stable/)  
+- [x] pytest, Write unit testing code [docs](https://docs.pytest.org/en/stable/)  
 - [x] Permission control (RBAC, ABAC, ReBAC) [permit.io](https://docs.permit.io/), [openfga](https://openfga.dev/docs/fga)
 - [ ] Redis (NoSQL database)  
-- [ ] Celery and Flower (task queues)  
+- [x] Procrastinate (task queues)  
 - [ ] PostgreSQL & PostGIS (spatial database management)
 - [ ] Typer for building modern CLI app [link](https://typer.tiangolo.com/)
 - [ ] traefik, cloud native application proxy [link](https://doc.traefik.io/traefik/)
 
 #### 🛠️ DevOps & Monitoring
-- [ ] Prometheus, Grafana, and Sentry (complete monitoring stack)  
+- [ ] Prometheus, Grafana, and Sentry (complete monitoring stack)
+- [ ] OpenTelemetry
 - [ ] Learn more about Cloud Services (GCP, AWS, Cloudflare R2)  
 
 #### 🎨 Frontend
 - [ ] Basic Frontend (HTML, JavaScript, CSS)  
-- [ ] React + Vite + TypeScript  
+- [ ] React + Vite + TypeScript
+- [ ] Vibe Coding for frontend
   
 #### ✈️ Certification
 - [ ] FAA Part 107 Certificate self-learning [course](https://www.youtube.com/watch?v=zB9qzXaQ72s)

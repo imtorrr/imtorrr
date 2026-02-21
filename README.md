@@ -37,7 +37,7 @@ I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate ab
 - [x] Procrastinate (task queues)  
 - [ ] PostgreSQL & PostGIS (spatial database management)
 - [ ] Typer for building modern CLI app [link](https://typer.tiangolo.com/)
-- [ ] traefik, cloud native application proxy [link](https://doc.traefik.io/traefik/)
+- [x] traefik, cloud native application proxy [link](https://doc.traefik.io/traefik/) [[course](https://youtube.com/playlist?list=PLxwqA42jxPR5wkcOFq3JP8MvFmI9u7K6Z&si=mGuFOUN7XXTyQFTk)]
 
 #### 🛠️ DevOps & Monitoring
 - [ ] Prometheus, Grafana, and Sentry (complete monitoring stack)

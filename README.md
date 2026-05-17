@@ -5,13 +5,13 @@
 
 Welcome to my corner of GitHub!
 
-I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate about combining **remote sensing, LiDAR, 3D model, and deep learning** to solve real-world problems.
+I’m a **Geomatics Engineer & Geospatial AI Developer** who’s passionate about combining **remote sensing, LiDAR, 3D reconstruction, and deep learning** to solve real-world problems.
 
 ---
 
-### 🔭 I’m currently working on
-- **Skyviv (Survey Engineering)** — establishing ground control points (GCPs), capturing LiDAR data with UAVs and handheld scanners, managing large-scale photogrammetry projects, post-processing aerial imagery, and analyzing geospatial datasets.  
-- My **thesis research**: *Tree semantic segmentation using PointNeXt and handheld LiDAR (GeoSLAM Zeb Horizon) for forest restoration plots in Thailand* 🌳.
+### 🔭 What I've been working on
+- **Survey Engineering at SKYVIV** — establishing GCPs, capturing LiDAR data with UAVs and handheld scanners, managing large-scale photogrammetry projects, post-processing aerial imagery, and GNSS/RTK field operations.
+- **M.Eng. Thesis** (finalizing): Tree semantic segmentation using PointNeXt and handheld LiDAR (GeoSLAM Zeb Horizon) for forest restoration plots in Thailand 🌳
 
 ---
 <!--
@@ -56,7 +56,6 @@ I’m a **Survey Engineer turned Geospatial AI Developer** who’s passionate ab
 -->
 ### ⚡ Fun fact
 I can fly drones ✈️, process LiDAR point clouds, and then build the backend to serve them on a map — all in one workflow.  
-Also, I roast myself with ChatGPT when I feel stuck 🤖🔥.
 
 ---
 
